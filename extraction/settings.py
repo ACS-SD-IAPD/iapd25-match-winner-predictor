@@ -1,4 +1,4 @@
-BOT_NAME = 'flashscore_extractor'
+BOT_NAME = 'extraction'
 
 SPIDER_MODULES = [f'{BOT_NAME}.spiders']
 NEWSPIDER_MODULE = f'{BOT_NAME}.spiders'
